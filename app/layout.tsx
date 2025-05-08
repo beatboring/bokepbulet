@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: 'Fv3bc6_lkyUOunZ_dkbRWgXsxIaXKLTuSDUD6aZgAEU',
-        yandex: '564efbecfc0fc2ef',
+        yandex: '16d898e1bf1ca41a',
     },
 };
 
